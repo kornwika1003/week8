@@ -7,6 +7,6 @@ class StaticCircle {
     }
 
     double getArea() {
-        return Math.pi * radius * radius;
+        return Math.PI * radius * radius;
     }
 }
